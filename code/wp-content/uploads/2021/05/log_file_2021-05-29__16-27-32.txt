@@ -1,0 +1,107 @@
+
+---Downloaded files---
+The import files for: Style 02 were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = E:\wp\htdocs\wordpress/wp-content/uploads/2021/05/demo-content-import-file_2021-05-29__16-27-32.xml
+Widget file = E:\wp\htdocs\wordpress/wp-content/uploads/2021/05/demo-widgets-import-file_2021-05-29__16-27-32.json
+Customizer file = not defined!
+Redux files:
+virtue -> E:\wp\htdocs\wordpress/wp-content/uploads/2021/05/demo-redux-import-file_0-2021-05-29__16-27-32.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Widget already exists
+
+orphaned_widgets_2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Text - No Title - Imported to Inactive
+
+orphaned_widgets_5 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Resources - Imported to Inactive
+
+Primary Sidebar : 
+
+Search - No Title - Imported
+Virtue: Recent Posts - No Title - Imported
+
+Footer Column 1 : 
+
+Text - No Title - Imported
+
+Footer Column 2 : 
+
+Virtue: Contact/Vcard - Contact Us - Imported
+Virtue: Social Links - Social - Imported
+
+Footer Column 3 : 
+
+Virtue: Image Grid - Recent Projects - Imported
+
+Footer Column 4 : 
+
+Navigation Menu - Resources - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: virtue finished successfully!
+
+---pt-ocdi/after_import---
+
